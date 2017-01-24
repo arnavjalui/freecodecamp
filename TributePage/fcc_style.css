@@ -1,0 +1,88 @@
+body {
+	background-color: #FFFFFF;
+}
+
+div {
+	
+}
+
+.head_left {
+	background-color:#FF9000;
+
+
+}
+
+.head_left:hover {
+	background-color:#FF5000;
+	
+}
+
+.well {
+	background-color: #C0C0C0;
+}
+
+.website_name {
+	background-color: #FF9000;
+	
+}
+
+#top_head {
+	font-family: Maven Pro;
+	font-size: 300%;
+	text-align: left;
+	color:  #FFFFFF;
+}
+
+.footer {
+	text-align: center;
+	font-family: Maven Pro;
+}
+
+.head_left a {
+	text-decoration:none;
+}
+
+#top_head_left {
+	font-family: Maven Pro;
+	font-size: 300%;
+	text-align: center;
+	color:  #FFFFFF;
+	text-decoration:none;
+}
+
+#quote {
+	text-align: center;
+	font-family: Amatic SC;
+	color: #010101;
+	font-size: 225%;
+}
+
+.main_row {
+	padding-top: 20px;
+}
+
+.list_div {
+	margin-top: 20px;
+	text-align: justify;
+}
+
+img {
+	display: block;
+	margin: auto;
+	
+}
+
+ul {
+	padding-top:25px;
+	list-style-position: inside;
+}
+
+li {
+	text-align: left;
+	font-family: Quattrocento;
+	font-size:120%;
+}
+
+.head-left {
+	color:#222222;
+}
